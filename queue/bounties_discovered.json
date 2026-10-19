@@ -1,0 +1,327 @@
+[
+  {
+    "id": "cantina_f9df94db-c7b1-434b-bb06-d1360abdd1be",
+    "target_uuid": "f9df94db-c7b1-434b-bb06-d1360abdd1be",
+    "platform": "Cantina",
+    "name": "Uniswap Labs",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 15500000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be",
+    "github_repo": "https://github.com/Uniswap/v4-core",
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 60,
+    "last_seen": "2026-10-19T13:45:25.136156"
+  },
+  {
+    "id": "cantina_3709ca85-4050-407e-9b36-51f5d5ea9b00",
+    "target_uuid": "3709ca85-4050-407e-9b36-51f5d5ea9b00",
+    "platform": "Cantina",
+    "name": "Reserve Protocol Bug Bounty",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 10000000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/3709ca85-4050-407e-9b36-51f5d5ea9b00",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136156"
+  },
+  {
+    "id": "cantina_4d285eee-602e-440a-845e-25e155cec26a",
+    "target_uuid": "4d285eee-602e-440a-845e-25e155cec26a",
+    "platform": "Cantina",
+    "name": "Euler Finance",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 7500000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/4d285eee-602e-440a-845e-25e155cec26a",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136156"
+  },
+  {
+    "id": "cantina_ff945ca2-2a6e-4b83-b1b6-7a0cd3b94bea",
+    "target_uuid": "ff945ca2-2a6e-4b83-b1b6-7a0cd3b94bea",
+    "platform": "Cantina",
+    "name": "Polymarket",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 7500000,
+    "currency": "USDC",
+    "chain": "Polygon",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/ff945ca2-2a6e-4b83-b1b6-7a0cd3b94bea",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136662"
+  },
+  {
+    "id": "cantina_55316f42-3c5e-4746-9bd0-0f18dcbc344b",
+    "target_uuid": "55316f42-3c5e-4746-9bd0-0f18dcbc344b",
+    "platform": "Cantina",
+    "name": "Coinbase Protocols",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 5000000,
+    "currency": "USDC",
+    "chain": "Polygon",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/55316f42-3c5e-4746-9bd0-0f18dcbc344b",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136662"
+  },
+  {
+    "id": "cantina_35a5f0a1-2ffd-432c-8f3b-77d169add8c3",
+    "target_uuid": "35a5f0a1-2ffd-432c-8f3b-77d169add8c3",
+    "platform": "Cantina",
+    "name": "Morpho Protocol",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 2500000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/35a5f0a1-2ffd-432c-8f3b-77d169add8c3",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136662"
+  },
+  {
+    "id": "cantina_fb1f1c54-0cb9-4201-8791-fb1e78e6e600",
+    "target_uuid": "fb1f1c54-0cb9-4201-8791-fb1e78e6e600",
+    "platform": "Cantina",
+    "name": "Pendle Bounty",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 2000000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/fb1f1c54-0cb9-4201-8791-fb1e78e6e600",
+    "github_repo": null,
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 35,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "cantina_5ffa2a58-2121-4986-b318-43f8ba9a559e",
+    "target_uuid": "5ffa2a58-2121-4986-b318-43f8ba9a559e",
+    "platform": "Cantina",
+    "name": "Ondo Perps",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 2000000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/5ffa2a58-2121-4986-b318-43f8ba9a559e",
+    "github_repo": null,
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 35,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "cantina_82440cba-eaa7-4563-add9-cf97e4c484f7",
+    "target_uuid": "82440cba-eaa7-4563-add9-cf97e4c484f7",
+    "platform": "Cantina",
+    "name": "api.ondoperps.xyz",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 1000000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/82440cba-eaa7-4563-add9-cf97e4c484f7",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "cantina_83b38645-7554-43c3-88d4-cac2910650b7",
+    "target_uuid": "83b38645-7554-43c3-88d4-cac2910650b7",
+    "platform": "Cantina",
+    "name": "dYdX",
+    "kind": "Bug Bounty",
+    "reward_pool_usd": 1000000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/bounties/83b38645-7554-43c3-88d4-cac2910650b7",
+    "github_repo": null,
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 15,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "cantina_e275368c-547d-4d91-a418-053ad31082a8",
+    "target_uuid": "e275368c-547d-4d91-a418-053ad31082a8",
+    "platform": "Cantina",
+    "name": "Revert Finance (Revert v4lend)",
+    "kind": "Competition / Audit Contest",
+    "reward_pool_usd": 50000,
+    "currency": "USDC",
+    "chain": "Ethereum / EVM",
+    "status": "live",
+    "url": "https://cantina.xyz/competitions/e275368c-547d-4d91-a418-053ad31082a8",
+    "github_repo": "https://github.com/revert-finance/v4lend",
+    "requires_kyc": true,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 65,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "immunefi_raydium",
+    "platform": "Immunefi",
+    "name": "Raydium AMM",
+    "kind": "Bug Bounty (Solana AMM)",
+    "reward_pool_usd": 505000,
+    "currency": "USDC / SOL",
+    "chain": "Solana",
+    "status": "active",
+    "url": "https://immunefi.com/bug-bounty/raydium/",
+    "github_repo": "https://github.com/raydium-io/raydium-cp-swap",
+    "in_scope_language": "Rust / Anchor",
+    "notes": "Covers Raydium CP-Swap, Concentrated Liquidity, and Routing algorithms.",
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Solana",
+      "address": "9DFpYkzcWrCwiqWkrSDmU8KmCbf2yoJvVrdq8grBqFx9"
+    },
+    "actionability_score": 60,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "immunefi_marinade",
+    "platform": "Immunefi",
+    "name": "Marinade Finance",
+    "kind": "Bug Bounty (Solana Staking)",
+    "reward_pool_usd": 250000,
+    "currency": "USDC / mSOL",
+    "chain": "Solana",
+    "status": "active",
+    "url": "https://immunefi.com/bug-bounty/marinadefinance/",
+    "github_repo": "https://github.com/marinade-finance/liquid-staking-program",
+    "in_scope_language": "Rust / Anchor",
+    "notes": "Covers Liquid staking state machine, fee calculation, stake withdrawal logic.",
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Solana",
+      "address": "9DFpYkzcWrCwiqWkrSDmU8KmCbf2yoJvVrdq8grBqFx9"
+    },
+    "actionability_score": 60,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "immunefi_wormhole",
+    "platform": "Immunefi",
+    "name": "Wormhole Foundation",
+    "kind": "Bug Bounty (Cross-Chain Bridge)",
+    "reward_pool_usd": 1000000,
+    "currency": "USDC",
+    "chain": "Multi-chain (Solana & EVM)",
+    "status": "active",
+    "url": "https://immunefi.com/bug-bounty/wormhole/",
+    "github_repo": "https://github.com/wormhole-foundation/wormhole",
+    "in_scope_language": "Rust & Solidity",
+    "notes": "Covers Guardian verification, message settlement, core bridge contracts.",
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Solana",
+      "address": "9DFpYkzcWrCwiqWkrSDmU8KmCbf2yoJvVrdq8grBqFx9"
+    },
+    "actionability_score": 60,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "immunefi_ethena",
+    "platform": "Immunefi",
+    "name": "Ethena Protocol",
+    "kind": "Bug Bounty (Synthetic Dollar)",
+    "reward_pool_usd": 3000000,
+    "currency": "USDC",
+    "chain": "Ethereum",
+    "status": "active",
+    "url": "https://immunefi.com/bug-bounty/ethena/",
+    "github_repo": "https://github.com/ethena-labs/ethena-core",
+    "in_scope_language": "Solidity",
+    "notes": "Covers USDe mint/redeem, staking vaults, and delta hedging contracts.",
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 60,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  },
+  {
+    "id": "immunefi_etherfi",
+    "platform": "Immunefi",
+    "name": "Ether.fi",
+    "kind": "Bug Bounty (Liquid Re-Staking)",
+    "reward_pool_usd": 500000,
+    "currency": "USDC / ETH",
+    "chain": "Ethereum",
+    "status": "active",
+    "url": "https://immunefi.com/bug-bounty/etherfi/",
+    "github_repo": "https://github.com/etherfi-protocol/smart-contracts",
+    "in_scope_language": "Solidity",
+    "notes": "Covers eETH minting, node operator exit, withdrawal queues.",
+    "requires_kyc": false,
+    "payout_wallet": {
+      "network": "Ethereum / EVM",
+      "address": "0xe87b614ed54a14e61da996bdaed81e02045ba991"
+    },
+    "actionability_score": 60,
+    "last_seen": "2026-10-19T13:45:25.136684"
+  }
+]

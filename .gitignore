@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+targets_workspace/
+.env
+.venv/
+env/
+venv/
+*.log
